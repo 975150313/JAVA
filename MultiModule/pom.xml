@@ -6,7 +6,11 @@
 
     <groupId>com.aast</groupId>
     <artifactId>MultiModule</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>modulecore</module>
+    </modules>
 
 
 </project>
